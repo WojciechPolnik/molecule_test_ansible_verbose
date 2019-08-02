@@ -2,4 +2,4 @@
 - name: Converge
   hosts: all
   roles:
-    - role: molecule_test
+    - role: molecule_test_ansible_verbose
